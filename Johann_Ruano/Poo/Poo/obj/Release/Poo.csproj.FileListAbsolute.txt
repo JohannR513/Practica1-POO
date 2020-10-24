@@ -1,0 +1,3 @@
+/Users/johann/Desktop/Johann_Ruano/Poo/Poo/bin/Release/Poo.exe
+/Users/johann/Desktop/Johann_Ruano/Poo/Poo/obj/Release/Poo.csproj.CoreCompileInputs.cache
+/Users/johann/Desktop/Johann_Ruano/Poo/Poo/obj/Release/Poo.exe

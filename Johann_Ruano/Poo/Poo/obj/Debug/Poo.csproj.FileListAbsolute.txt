@@ -1,0 +1,6 @@
+/Users/johann/Desktop/Johann_Ruano/Poo/Poo/bin/Debug/Poo.exe
+/Users/johann/Desktop/Johann_Ruano/Poo/Poo/bin/Debug/Poo.pdb
+/Users/johann/Desktop/Johann_Ruano/Poo/Poo/obj/Debug/Poo.csprojAssemblyReference.cache
+/Users/johann/Desktop/Johann_Ruano/Poo/Poo/obj/Debug/Poo.csproj.CoreCompileInputs.cache
+/Users/johann/Desktop/Johann_Ruano/Poo/Poo/obj/Debug/Poo.exe
+/Users/johann/Desktop/Johann_Ruano/Poo/Poo/obj/Debug/Poo.pdb
